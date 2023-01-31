@@ -174,3 +174,33 @@ body {
         border-radius: 25px;
         margin-bottom: 35px;
     }
+    .website{
+        background-color: purple;
+        border: 1px solid purple;
+        margin-top: 10px;
+        margin-left: 5px;
+        border-radius: 5px;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        border-radius: 25px;
+        margin-bottom: 35px;
+    }
+    .sales{
+        background-color: green;
+        border: 1px solid green;
+        margin-top: 10px;
+        margin-left: 5px;
+        border-radius: 5px;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        border-radius: 25px;
+        margin-bottom: 35px;
+    }
