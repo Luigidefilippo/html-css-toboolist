@@ -31,31 +31,47 @@ body {
 }
 
 .container-button {
-    justify-content: space-between;
-    margin-top: 50px;
-    margin-left: 50px;
+    background-color: white;
+    padding: 100px;
+
   }
+  .conteiner-button {
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-right: 200px;
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+}
 
 .task{
     background-color: skyblue;
+    margin: 10px 0 0 0;
     border: 1px solid skyblue;
     border-radius: 10px;
     color: white;
-    padding: 10px 10px;
-    text-align: center;
+    padding: 10px 15px;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
 }
+
 .add-section {
   background-color: white;
   border: 1px solid gray;
   border-radius: 5px;
   color: gray;
-  padding: 10px 10px;
-  text-align: center;
+  padding: 10px 20px;
+  text-align: left;
   text-decoration: none;
   display: inline-block;
   font-size: 15px;
+}
+.main-task{
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-right: 200px;
 }
 
